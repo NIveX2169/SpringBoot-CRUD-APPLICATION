@@ -16,8 +16,8 @@ This Project is made using Springboot(Java17),It is Cli Application Which fetche
 
 ## Usage
 
-Application Menu Contains 4 options And there are then sub menus
-![Menu](/images/menu.png)
+   Application Menu Contains 4 options And there are then sub menus
+    ![Menu](/images/menu.png)
 
 
 
@@ -28,8 +28,8 @@ Application Menu Contains 4 options And there are then sub menus
    
 3. For Deletion of Data press 2.
     ![deletion](/images/delete_using_primarykey.png)
-   Deletion Can Be Done Using Primary key
-   Deletion Can Be Done Using Where Clause.
+   
+   Deletion Can Be Done Using Primary key also Using Where Clause.
 
    
 3. For Fetching Data From Database press 3.
